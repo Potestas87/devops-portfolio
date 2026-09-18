@@ -2,7 +2,7 @@ replicaCount: 2
 
 image:
   repository: ghcr.io/potestas87/devops-portfolio-api
-  tag: latest # bumped automatically by CI
+  tag: e35f7baf9dca12ab6012bc8a0612ea9edbf03450
   pullPolicy: IfNotPresent
 
 service:
